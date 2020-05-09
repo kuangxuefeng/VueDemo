@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+使用cli2创建
+
 ## Build Setup
 
 ``` bash
